@@ -1,0 +1,629 @@
+[
+  {
+    "sport_id":"Z2lkOi8vaHMzL1Nwb3J0LzI",
+    "id":"Z2lkOi8vaHMzL0dhbWUvMTAwODQ3",
+    "home_team":"NYJ Jets",
+    "away_team":"Den Broncos",
+    "start_time":"2025-10-12T13:30:00Z",
+    "league":"NFL",
+    "odds_count":[
+
+    ]
+  },
+  {
+    "sport_id":"Z2lkOi8vaHMzL1Nwb3J0LzI",
+    "id":"Z2lkOi8vaHMzL0dhbWUvOTc1MzA",
+    "home_team":"Jax Jaguars",
+    "away_team":"KC Chiefs",
+    "start_time":"2025-10-07T00:15:00Z",
+    "league":"NFL",
+    "odds_count":[
+
+    ]
+  },
+  {
+    "sport_id":"Z2lkOi8vaHMzL1Nwb3J0LzI",
+    "id":"Z2lkOi8vaHMzL0dhbWUvMTAwNzcw",
+    "home_team":"NYG Giants",
+    "away_team":"Phi Eagles",
+    "start_time":"2025-10-10T00:15:00Z",
+    "league":"NFL",
+    "odds_count":[
+
+    ]
+  },
+  {
+    "sport_id":"Z2lkOi8vaHMzL1Nwb3J0LzI",
+    "id":"Z2lkOi8vaHMzL0dhbWUvMTAwNTk4",
+    "home_team":"Bal Ravens",
+    "away_team":"LAR Rams",
+    "start_time":"2025-10-12T17:00:00Z",
+    "league":"NFL",
+    "odds_count":[
+
+    ]
+  },
+  {
+    "sport_id":"Z2lkOi8vaHMzL1Nwb3J0LzI",
+    "id":"Z2lkOi8vaHMzL0dhbWUvMTAwNjc0",
+    "home_team":"Car Panthers",
+    "away_team":"Dal Cowboys",
+    "start_time":"2025-10-12T17:00:00Z",
+    "league":"NFL",
+    "odds_count":[
+
+    ]
+  },
+  {
+    "sport_id":"Z2lkOi8vaHMzL1Nwb3J0LzI",
+    "id":"Z2lkOi8vaHMzL0dhbWUvMTAxMDIw",
+    "home_team":"Ind Colts",
+    "away_team":"Ari Cardinals",
+    "start_time":"2025-10-12T17:00:00Z",
+    "league":"NFL",
+    "odds_count":[
+
+    ]
+  },
+  {
+    "sport_id":"Z2lkOi8vaHMzL1Nwb3J0LzI",
+    "id":"Z2lkOi8vaHMzL0dhbWUvMTAxMjQ3",
+    "home_team":"Mia Dolphins",
+    "away_team":"LAC Chargers",
+    "start_time":"2025-10-12T17:00:00Z",
+    "league":"NFL",
+    "odds_count":[
+
+    ]
+  },
+  {
+    "sport_id":"Z2lkOi8vaHMzL1Nwb3J0LzI",
+    "id":"Z2lkOi8vaHMzL0dhbWUvMTAwNTE1",
+    "home_team":"Pit Steelers",
+    "away_team":"Cle Browns",
+    "start_time":"2025-10-12T17:00:00Z",
+    "league":"NFL",
+    "odds_count":[
+
+    ]
+  },
+  {
+    "sport_id":"Z2lkOi8vaHMzL1Nwb3J0LzI",
+    "id":"Z2lkOi8vaHMzL0dhbWUvMTAxMDk2",
+    "home_team":"LV Raiders",
+    "away_team":"Ten Titans",
+    "start_time":"2025-10-12T20:05:00Z",
+    "league":"NFL",
+    "odds_count":[
+
+    ]
+  },
+  {
+    "sport_id":"Z2lkOi8vaHMzL1Nwb3J0LzI",
+    "id":"Z2lkOi8vaHMzL0dhbWUvMTAxMzIz",
+    "home_team":"GB Packers",
+    "away_team":"Cin Bengals",
+    "start_time":"2025-10-12T20:25:00Z",
+    "league":"NFL",
+    "odds_count":[
+
+    ]
+  },
+  {
+    "sport_id":"Z2lkOi8vaHMzL1Nwb3J0LzI",
+    "id":"Z2lkOi8vaHMzL0dhbWUvMTAxNDI5",
+    "home_team":"Atl Falcons",
+    "away_team":"Buf Bills",
+    "start_time":"2025-10-13T23:15:00Z",
+    "league":"NFL",
+    "odds_count":[
+
+    ]
+  },
+  {
+    "sport_id":"Z2lkOi8vaHMzL1Nwb3J0LzI",
+    "id":"Z2lkOi8vaHMzL0dhbWUvMTAxMTcy",
+    "home_team":"Was Commanders",
+    "away_team":"Chi Bears",
+    "start_time":"2025-10-14T00:15:00Z",
+    "league":"NFL",
+    "odds_count":[
+
+    ]
+  },
+  {
+    "sport_id":"Z2lkOi8vaHMzL1Nwb3J0LzI",
+    "id":"Z2lkOi8vaHMzL0dhbWUvMTAxNTA0",
+    "home_team":"NO Saints",
+    "away_team":"NE Patriots",
+    "start_time":"2025-10-12T17:00:00Z",
+    "league":"NFL",
+    "odds_count":[
+
+    ]
+  },
+  {
+    "sport_id":"Z2lkOi8vaHMzL1Nwb3J0LzI",
+    "id":"Z2lkOi8vaHMzL0dhbWUvOTc2ODU",
+    "home_team":"UTEP Miners",
+    "away_team":"Lib Flames",
+    "start_time":"2025-10-09T00:00:00Z",
+    "league":"NCAA",
+    "odds_count":[
+
+    ]
+  },
+  {
+    "sport_id":"Z2lkOi8vaHMzL1Nwb3J0LzI",
+    "id":"Z2lkOi8vaHMzL0dhbWUvOTYxNzQ",
+    "home_team":"MiddTn Blue Raiders",
+    "away_team":"MoStU Bears",
+    "start_time":"2025-10-08T23:30:00Z",
+    "league":"NCAA",
+    "odds_count":[
+
+    ]
+  },
+  {
+    "sport_id":"Z2lkOi8vaHMzL1Nwb3J0LzI",
+    "id":"Z2lkOi8vaHMzL0dhbWUvOTg4OTg",
+    "home_team":"SamHou Bearkats",
+    "away_team":"JacSt Gamecocks",
+    "start_time":"2025-10-10T00:00:00Z",
+    "league":"NCAA",
+    "odds_count":[
+
+    ]
+  },
+  {
+    "sport_id":"Z2lkOi8vaHMzL1Nwb3J0LzI",
+    "id":"Z2lkOi8vaHMzL0dhbWUvOTkwNjE",
+    "home_team":"CSU Rams",
+    "away_team":"Fres Bulldogs",
+    "start_time":"2025-10-11T01:00:00Z",
+    "league":"NCAA",
+    "odds_count":[
+
+    ]
+  },
+  {
+    "sport_id":"Z2lkOi8vaHMzL1Nwb3J0LzI",
+    "id":"Z2lkOi8vaHMzL0dhbWUvOTkwMTQ",
+    "home_team":"UNT Mean Green",
+    "away_team":"USF Bulls",
+    "start_time":"2025-10-10T23:30:00Z",
+    "league":"NCAA",
+    "odds_count":[
+
+    ]
+  },
+  {
+    "sport_id":"Z2lkOi8vaHMzL1Nwb3J0LzI",
+    "id":"Z2lkOi8vaHMzL0dhbWUvOTk0NjY",
+    "home_team":"UW Huskies",
+    "away_team":"Rut Scarlet Knights",
+    "start_time":"2025-10-11T01:00:00Z",
+    "league":"NCAA",
+    "odds_count":[
+
+    ]
+  },
+  {
+    "sport_id":"Z2lkOi8vaHMzL1Nwb3J0LzI",
+    "id":"Z2lkOi8vaHMzL0dhbWUvOTc5MjI",
+    "home_team":"GaSo Eagles",
+    "away_team":"SouMis Golden Eagles",
+    "start_time":"2025-10-10T00:00:00Z",
+    "league":"NCAA",
+    "odds_count":[
+
+    ]
+  },
+  {
+    "sport_id":"Z2lkOi8vaHMzL1Nwb3J0LzI",
+    "id":"Z2lkOi8vaHMzL0dhbWUvOTc3MzM",
+    "home_team":"TULN Green Wave",
+    "away_team":"ECU Pirates",
+    "start_time":"2025-10-09T23:30:00Z",
+    "league":"NCAA",
+    "odds_count":[
+
+    ]
+  },
+  {
+    "sport_id":"Z2lkOi8vaHMzL1Nwb3J0LzI",
+    "id":"Z2lkOi8vaHMzL0dhbWUvMTAwMDQ2",
+    "home_team":"MIZZOU Tigers",
+    "away_team":"BAMA Crimson Tide",
+    "start_time":"2025-10-11T16:00:00Z",
+    "league":"NCAA",
+    "odds_count":[
+
+    ]
+  },
+  {
+    "sport_id":"Z2lkOi8vaHMzL1Nwb3J0LzI",
+    "id":"Z2lkOi8vaHMzL0dhbWUvOTk5NTM",
+    "home_team":"Tex Longhorns",
+    "away_team":"Okla Sooners",
+    "start_time":"2025-10-11T19:30:00Z",
+    "league":"NCAA",
+    "odds_count":[
+
+    ]
+  },
+  {
+    "sport_id":"Z2lkOi8vaHMzL1Nwb3J0LzI",
+    "id":"Z2lkOi8vaHMzL0dhbWUvOTg0NTM",
+    "home_team":"Miss Rebels",
+    "away_team":"WSU Cougars",
+    "start_time":"2025-10-11T16:45:00Z",
+    "league":"NCAA",
+    "odds_count":[
+
+    ]
+  },
+  {
+    "sport_id":"Z2lkOi8vaHMzL1Nwb3J0LzI",
+    "id":"Z2lkOi8vaHMzL0dhbWUvMTAwMDAx",
+    "home_team":"ND Fighting Irish",
+    "away_team":"NCSU Wolfpack",
+    "start_time":"2025-10-11T19:30:00Z",
+    "league":"NCAA",
+    "odds_count":[
+
+    ]
+  },
+  {
+    "sport_id":"Z2lkOi8vaHMzL1Nwb3J0LzI",
+    "id":"Z2lkOi8vaHMzL0dhbWUvOTkzMzI",
+    "home_team":"ORST Beavers",
+    "away_team":"Wake Demon Deacons",
+    "start_time":"2025-10-11T19:30:00Z",
+    "league":"NCAA",
+    "odds_count":[
+
+    ]
+  },
+  {
+    "sport_id":"Z2lkOi8vaHMzL1Nwb3J0LzI",
+    "id":"Z2lkOi8vaHMzL0dhbWUvOTk2OTY",
+    "home_team":"MSU Spartans",
+    "away_team":"UCLA Bruins",
+    "start_time":"2025-10-11T16:00:00Z",
+    "league":"NCAA",
+    "odds_count":[
+
+    ]
+  },
+  {
+    "sport_id":"Z2lkOi8vaHMzL1Nwb3J0LzI",
+    "id":"Z2lkOi8vaHMzL0dhbWUvOTk5MTM",
+    "home_team":"USA Jaguars",
+    "away_team":"ArkSt Red Wolves",
+    "start_time":"2025-10-14T23:30:00Z",
+    "league":"NCAA",
+    "odds_count":[
+
+    ]
+  },
+  {
+    "sport_id":"Z2lkOi8vaHMzL1Nwb3J0LzI",
+    "id":"Z2lkOi8vaHMzL0dhbWUvOTk1ODU",
+    "home_team":"WestKy Hilltoppers",
+    "away_team":"FIU Panthers",
+    "start_time":"2025-10-15T00:00:00Z",
+    "league":"NCAA",
+    "odds_count":[
+
+    ]
+  },
+  {
+    "sport_id":"Z2lkOi8vaHMzL1Nwb3J0LzI",
+    "id":"Z2lkOi8vaHMzL0dhbWUvOTg0MDE",
+    "home_team":"Tenn Volunteers",
+    "away_team":"ARK Razorbacks",
+    "start_time":"2025-10-11T20:15:00Z",
+    "league":"NCAA",
+    "odds_count":[
+
+    ]
+  },
+  {
+    "sport_id":"Z2lkOi8vaHMzL1Nwb3J0LzI",
+    "id":"Z2lkOi8vaHMzL0dhbWUvOTk4MjM",
+    "home_team":"Auburn Tigers",
+    "away_team":"UGa Bulldogs",
+    "start_time":"2025-10-11T23:30:00Z",
+    "league":"NCAA",
+    "odds_count":[
+
+    ]
+  },
+  {
+    "sport_id":"Z2lkOi8vaHMzL1Nwb3J0LzI",
+    "id":"Z2lkOi8vaHMzL0dhbWUvMTAwMzIy",
+    "home_team":"TexA&M Aggies",
+    "away_team":"Fla Gators",
+    "start_time":"2025-10-11T23:00:00Z",
+    "league":"NCAA",
+    "odds_count":[
+
+    ]
+  },
+  {
+    "sport_id":"Z2lkOi8vaHMzL1Nwb3J0LzI",
+    "id":"Z2lkOi8vaHMzL0dhbWUvOTk4Njk",
+    "home_team":"LSU Tigers",
+    "away_team":"SCAR Gamecocks",
+    "start_time":"2025-10-11T23:45:00Z",
+    "league":"NCAA",
+    "odds_count":[
+
+    ]
+  },
+  {
+    "sport_id":"Z2lkOi8vaHMzL1Nwb3J0LzI",
+    "id":"Z2lkOi8vaHMzL0dhbWUvOTc3ODI",
+    "home_team":"KennSt Owls",
+    "away_team":"LaTech Bulldogs",
+    "start_time":"2025-10-09T23:00:00Z",
+    "league":"NCAA",
+    "odds_count":[
+
+    ]
+  },
+  {
+    "sport_id":"Z2lkOi8vaHMzL1Nwb3J0LzI",
+    "id":"Z2lkOi8vaHMzL0dhbWUvMTAwMTQw",
+    "home_team":"Ill Fighting Illini",
+    "away_team":"OhioSt Buckeyes",
+    "start_time":"2025-10-11T16:00:00Z",
+    "league":"NCAA",
+    "odds_count":[
+
+    ]
+  },
+  {
+    "sport_id":"Z2lkOi8vaHMzL1Nwb3J0LzM",
+    "id":"Z2lkOi8vaHMzL0dhbWUvOTk1NjQ",
+    "home_team":"PHI Phillies",
+    "away_team":"LAD Dodgers",
+    "start_time":"2025-10-06T22:08:00Z",
+    "league":"MLB",
+    "odds_count":[
+
+    ]
+  },
+  {
+    "sport_id":"Z2lkOi8vaHMzL1Nwb3J0LzI",
+    "id":"Z2lkOi8vaHMzL0dhbWUvOTkxOTg",
+    "home_team":"Ari Wildcats",
+    "away_team":"BYU Cougars",
+    "start_time":"2025-10-12T00:00:00Z",
+    "league":"NCAA",
+    "odds_count":[
+
+    ]
+  },
+  {
+    "sport_id":"Z2lkOi8vaHMzL1Nwb3J0LzI",
+    "id":"Z2lkOi8vaHMzL0dhbWUvOTg3MTE",
+    "home_team":"UTAH Utes",
+    "away_team":"ASU Sun Devils",
+    "start_time":"2025-10-12T02:15:00Z",
+    "league":"NCAA",
+    "odds_count":[
+
+    ]
+  },
+  {
+    "sport_id":"Z2lkOi8vaHMzL1Nwb3J0LzI",
+    "id":"Z2lkOi8vaHMzL0dhbWUvMTAwMDk4",
+    "home_team":"CIN Bearcats",
+    "away_team":"UCF Knights",
+    "start_time":"2025-10-11T16:00:00Z",
+    "league":"NCAA",
+    "odds_count":[
+
+    ]
+  },
+  {
+    "sport_id":"Z2lkOi8vaHMzL1Nwb3J0LzI",
+    "id":"Z2lkOi8vaHMzL0dhbWUvMTAwNDEw",
+    "home_team":"CU Buffaloes",
+    "away_team":"IaSt Cyclones",
+    "start_time":"2025-10-11T19:30:00Z",
+    "league":"NCAA",
+    "odds_count":[
+
+    ]
+  },
+  {
+    "sport_id":"Z2lkOi8vaHMzL1Nwb3J0LzI",
+    "id":"Z2lkOi8vaHMzL0dhbWUvMTAwMjMx",
+    "home_team":"OKST Cowboys",
+    "away_team":"Hou Cougars",
+    "start_time":"2025-10-11T16:00:00Z",
+    "league":"NCAA",
+    "odds_count":[
+
+    ]
+  },
+  {
+    "sport_id":"Z2lkOi8vaHMzL1Nwb3J0LzI",
+    "id":"Z2lkOi8vaHMzL0dhbWUvMTAwMjcz",
+    "home_team":"TTU Red Raiders",
+    "away_team":"KU Jayhawks",
+    "start_time":"2025-10-11T23:30:00Z",
+    "league":"NCAA",
+    "odds_count":[
+
+    ]
+  },
+  {
+    "sport_id":"Z2lkOi8vaHMzL1Nwb3J0LzI",
+    "id":"Z2lkOi8vaHMzL0dhbWUvMTAwMzY1",
+    "home_team":"KSU Wildcats",
+    "away_team":"TCU Horned Frogs",
+    "start_time":"2025-10-11T19:30:00Z",
+    "league":"NCAA",
+    "odds_count":[
+
+    ]
+  },
+  {
+    "sport_id":"Z2lkOi8vaHMzL1Nwb3J0LzI",
+    "id":"Z2lkOi8vaHMzL0dhbWUvOTk0MjU",
+    "home_team":"BC Eagles",
+    "away_team":"Clem Tigers",
+    "start_time":"2025-10-11T23:30:00Z",
+    "league":"NCAA",
+    "odds_count":[
+
+    ]
+  },
+  {
+    "sport_id":"Z2lkOi8vaHMzL1Nwb3J0LzI",
+    "id":"Z2lkOi8vaHMzL0dhbWUvMTAwNDU5",
+    "home_team":"FSU Seminoles",
+    "away_team":"Pitt Panthers",
+    "start_time":"2025-10-11T16:00:00Z",
+    "league":"NCAA",
+    "odds_count":[
+
+    ]
+  },
+  {
+    "sport_id":"Z2lkOi8vaHMzL1Nwb3J0LzI",
+    "id":"Z2lkOi8vaHMzL0dhbWUvOTkxMTg",
+    "home_team":"GT Yellow Jackets",
+    "away_team":"VaTech Hokies",
+    "start_time":"2025-10-11T19:30:00Z",
+    "league":"NCAA",
+    "odds_count":[
+
+    ]
+  },
+  {
+    "sport_id":"Z2lkOi8vaHMzL1Nwb3J0LzI",
+    "id":"Z2lkOi8vaHMzL0dhbWUvOTkzODE",
+    "home_team":"SMU Mustangs",
+    "away_team":"Stan Cardinal",
+    "start_time":"2025-10-11T16:00:00Z",
+    "league":"NCAA",
+    "odds_count":[
+
+    ]
+  },
+  {
+    "sport_id":"Z2lkOi8vaHMzL1Nwb3J0LzI",
+    "id":"Z2lkOi8vaHMzL0dhbWUvOTg0OTk",
+    "home_team":"ORE Ducks",
+    "away_team":"IU Hoosiers",
+    "start_time":"2025-10-11T19:30:00Z",
+    "league":"NCAA",
+    "odds_count":[
+
+    ]
+  },
+  {
+    "sport_id":"Z2lkOi8vaHMzL1Nwb3J0LzI",
+    "id":"Z2lkOi8vaHMzL0dhbWUvOTkyNDM",
+    "home_team":"Wisc Badgers",
+    "away_team":"Iowa Hawkeyes",
+    "start_time":"2025-10-11T23:00:00Z",
+    "league":"NCAA",
+    "odds_count":[
+
+    ]
+  },
+  {
+    "sport_id":"Z2lkOi8vaHMzL1Nwb3J0LzI",
+    "id":"Z2lkOi8vaHMzL0dhbWUvOTk3Nzk",
+    "home_team":"MD Terrapins",
+    "away_team":"Neb Cornhuskers",
+    "start_time":"2025-10-11T19:30:00Z",
+    "league":"NCAA",
+    "odds_count":[
+
+    ]
+  },
+  {
+    "sport_id":"Z2lkOi8vaHMzL1Nwb3J0LzI",
+    "id":"Z2lkOi8vaHMzL0dhbWUvOTkyODU",
+    "home_team":"USC Trojans",
+    "away_team":"Mich Wolverines",
+    "start_time":"2025-10-11T23:30:00Z",
+    "league":"NCAA",
+    "odds_count":[
+
+    ]
+  },
+  {
+    "sport_id":"Z2lkOi8vaHMzL1Nwb3J0LzI",
+    "id":"Z2lkOi8vaHMzL0dhbWUvMTAwMTgx",
+    "home_team":"Minn Golden Gophers",
+    "away_team":"PUR Boilermakers",
+    "start_time":"2025-10-11T23:30:00Z",
+    "league":"NCAA",
+    "odds_count":[
+
+    ]
+  },
+  {
+    "sport_id":"Z2lkOi8vaHMzL1Nwb3J0LzI",
+    "id":"Z2lkOi8vaHMzL0dhbWUvOTk3MzY",
+    "home_team":"PSU Nittany Lions",
+    "away_team":"NW Wildcats",
+    "start_time":"2025-10-11T19:30:00Z",
+    "league":"NCAA",
+    "odds_count":[
+
+    ]
+  },
+  {
+    "sport_id":"Z2lkOi8vaHMzL1Nwb3J0LzI",
+    "id":"Z2lkOi8vaHMzL0dhbWUvMTAwOTQw",
+    "home_team":"TB Buccaneers",
+    "away_team":"SF 49ers",
+    "start_time":"2025-10-12T20:25:00Z",
+    "league":"NFL",
+    "odds_count":[
+
+    ]
+  },
+  {
+    "sport_id":"Z2lkOi8vaHMzL1Nwb3J0LzM",
+    "id":"Z2lkOi8vaHMzL0dhbWUvOTkxNzE",
+    "home_team":"MIL Brewers",
+    "away_team":"CHC Cubs",
+    "start_time":"2025-10-07T01:08:00Z",
+    "league":"MLB",
+    "odds_count":[
+
+    ]
+  },
+  {
+    "sport_id":"Z2lkOi8vaHMzL1Nwb3J0LzM",
+    "id":"Z2lkOi8vaHMzL0dhbWUvMTAxMzk5",
+    "home_team":"DET Tigers",
+    "away_team":"SEA Mariners",
+    "start_time":"2025-10-07T20:08:00Z",
+    "league":"MLB",
+    "odds_count":[
+
+    ]
+  },
+  {
+    "sport_id":"Z2lkOi8vaHMzL1Nwb3J0LzM",
+    "id":"Z2lkOi8vaHMzL0dhbWUvMTAwNzUw",
+    "home_team":"NYY Yankees",
+    "away_team":"TOR Blue Jays",
+    "start_time":"2025-10-08T00:08:00Z",
+    "league":"MLB",
+    "odds_count":[
+
+    ]
+  }
+]
